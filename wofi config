@@ -1,0 +1,7 @@
+mode=drun
+width=600
+height=300
+always_parse_args=true
+show_icons=true
+insensitive=true
+prompt=Search Apps...
